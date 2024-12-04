@@ -1,11 +1,3 @@
-# Upgrad-Healthcare-Data-Assignment-
-
-
-# Identifying Entities in Healthcare Data
-
-This repository contains the Jupyter Notebook **"Identifying_Entities_in_Healthcare_Data_assignment.ipynb"**, 
-which demonstrates techniques for identifying entities in healthcare-related text data.
-
 ## Objective
 
 The primary goal of this notebook is to develop a **Named Entity Recognition (NER)** model for healthcare data. The aim is to identify and classify specific entities, such as medical conditions, treatments, or anatomical terms, within unstructured text. This task is crucial for transforming raw healthcare text data into structured and actionable insights.
